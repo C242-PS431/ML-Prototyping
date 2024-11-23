@@ -6,7 +6,15 @@ Bangkit stuff/.env
 Bangkit stuff/Fruits-and-Vegetables-1/
 Bangkit stuff/yolo11l.pt
 Bangkit stuff/yolo11n.pt
-Bangkit stuff/fruits-and-vegetables-17y0t/yolov11l/args.yaml
-Bangkit stuff/fruits-and-vegetables-17y0t/
-Bangkit stuff/runs/
+Bangkit stuff/runs
+Bangkit stuff/wandb
 gen_ai/ComfyUI
+Bangkit stuff/.venv
+Bangkit stuff/food-detection-5
+Bangkit stuff/scan-detection
+.venv
+Bangkit stuff/Apple.keras
+Bangkit stuff/banana.keras
+Bangkit stuff/cabbage.keras
+Bangkit stuff/capsicum.keras
+Bangkit stuff/tomato.keras

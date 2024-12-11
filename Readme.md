@@ -27,7 +27,9 @@ Also we implemented data augmentation like
 - Random Contrast
 - Random Rotation
 - Random Zoom
-- Random Flip 
+- Random Flip
+
+After the augmentation we get the final data. 80% of the data used for training and 20% for the validation data
 
 ## Yolo as Object Detection
 <div align="justify">
